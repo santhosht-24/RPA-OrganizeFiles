@@ -1,1 +1,1 @@
-This repo contains UiPath Studio files for organizing different types of files by moving them into separate folders based on each file type.
+This repo contains UiPath Studio files for organizing different types of files by moving them into separate folders based on each file type. Also this branch consists of a workflow file, which is invoked using the Main.xaml file. This workflow will accept File name and File extension as input arguments and return a boolean value as output indicating whether the organizing process is success or failure. 
