@@ -1,7 +1,7 @@
 {
-  "name": "FileSorter",
-  "projectId": "08f374b6-b2ba-408c-b68b-fd1bbd8dbbf7",
-  "description": "Blank Process",
+  "name": "FileSorterWorkflow",
+  "projectId": "01823b62-fc41-4cd4-a1b8-f8e94b04f8b9",
+  "description": "FileSorterWorkflow",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.23.2-preview]",
@@ -50,7 +50,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "1ac6aa78-3dda-4e34-95de-2b18156c9bc7",
+      "uniqueId": "9008d638-71dd-4241-bbac-bd0ae1071793",
       "input": [],
       "output": []
     }
